@@ -1,0 +1,7 @@
+
+
+# add this line to /etc/sudoers file
+
+username ALL=(ALL:ALL) NOPASSWD:ALL
+
+
